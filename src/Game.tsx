@@ -246,7 +246,7 @@ export const Game: React.FC<{}> = () => {
            onClick={onClickOverlay}
       >
         <h2 className="overlay__text">
-          You <span className="overlay__textspan1">solved</span> <span className="overlay__textspan2">it!</span>
+          You <span className="overlay__textspan1">solved</span> <span className="overlay__textspan2">it!!</span>
         </h2>
       </div>
     </>
